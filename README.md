@@ -37,3 +37,13 @@ Designed to be easy to understand and deploy.
 - `static/css/style.css` : Basic styling.
 - `static/js/app.js` : Frontend JS for interacting with the API.
 - `students.db` : (created at runtime) SQLite DB file.
+
+## ✍️ Engineer Development
+## Mohammed Ameen Saleh Albareda
+Advanced AI Solutions Specialist | Cybersecurity Expert  
+
+[GitHub](https://github.com/775503801) | [LinkedIn](https://www.linkedin.com/in/Mohammed-Albareda) | [Instagram](https://www.instagram.com/mhmd.lbrdh?igsh=a2J4aXVidHpsb3Yw) | [Facebook](https://www.facebook.com/share/18Gh1EKFnP/)  
+
+📧 mohmmedas2004@gmail.com | 📱 +967775503801
+
+*Designing innovative AI solutions while securing digital systems to drive smart and safe technology.*
